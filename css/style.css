@@ -1,0 +1,24 @@
+/* inizio header */
+.intestazione{
+    width: 80%;
+    margin: auto;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-color: rgb(40, 108, 255);
+    background-size: 20%;   
+}
+
+#logo{
+    width: 20%;
+}
+/* / header */
+
+/* inizio main */
+.titolo{
+    width: 80%;
+    margin: auto;
+}
+/* / main */
+
+/* inizio footer */
+/* / footer */
