@@ -38,6 +38,17 @@
 }
 /* / sezione foto */
 
+/* inizio sezione contenuto */
+.contenuto{
+    width: 80%;
+    margin: auto;
+}
+
+#testoevidenziato{
+    background-color: yellow;
+}
+/* / sezione contenuto */
+
 /* / main */
 
 /* inizio footer */
