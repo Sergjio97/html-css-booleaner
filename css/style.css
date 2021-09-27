@@ -49,6 +49,46 @@
 }
 /* / sezione contenuto */
 
+/* inizio sezione tabella */
+.tabella{
+    width: 80%;
+    margin: auto;
+}
+
+thead{
+    background-color: rgb(44, 109, 250);
+    color: white;
+}
+
+#corpotabella{
+    background-color: rgb(107, 152, 248);
+}
+/* / sezione tabella */
+
+/* inizio seconda sezione foto */
+#interesse{
+    width: 80%;
+    margin: auto;
+    color: grey;
+}
+
+.fotodinteresse{
+    height: 80%;
+    width: 80%;
+    margin: auto; 
+    background-image: url(../img/monitor.jpg); 
+}
+
+.fotodinteresse2{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    
+}
+
+
+/* / seconda sezione foto */
+
 /* / main */
 
 /* inizio footer */
