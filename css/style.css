@@ -18,6 +18,14 @@
     width: 80%;
     margin: auto;
 }
+
+#copyright{
+    color: grey;
+}
+
+#booleaner{
+    color: rgb(44, 109, 250);
+}
 /* / main */
 
 /* inizio footer */
