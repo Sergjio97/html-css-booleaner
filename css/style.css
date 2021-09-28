@@ -79,12 +79,17 @@ thead{
     background-size: cover;
     padding: 5%;
     margin-left: 10%;
+    color: white;
 }
 
 .fotodinteresse2{
-    width: 80%;
-    height: 80%;
-    margin: auto;
+    width: 5%;
+    margin: auto; 
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    padding: 5%;
+    margin-left: 10%;
+    color: white;
     
 }
 
