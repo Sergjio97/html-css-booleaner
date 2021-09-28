@@ -73,10 +73,12 @@ thead{
 }
 
 .fotodinteresse{
-    height: 80%;
-    width: 80%;
+    width: 5%;
     margin: auto; 
-    background-image: url(../img/monitor.jpg); 
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    padding: 5%;
+    margin-left: 10%;
 }
 
 .fotodinteresse2{
